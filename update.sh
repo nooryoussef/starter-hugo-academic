@@ -1,10 +1,19 @@
-git add .
-git commit -m "Initial commit"
-git push -u origin master
+#!/bin/bash
 
-hugo # Generate the website inside the public directory
-cd public
-git add .
-git commit -m "Build website"
-git push origin master
-cd ..
+if [ -z "$1" ]; then
+  echo "You need to specify the changes to commit as an argument"
+  exit 1
+else
+  git add -A
+  git commit -am "$1"
+  git push
+
+  hugo
+
+  cd public
+  git add -A
+  git commit -am "$1"
+  git push
+
+  cd ..
+fi
