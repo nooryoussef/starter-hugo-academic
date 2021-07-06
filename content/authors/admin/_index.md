@@ -64,7 +64,6 @@ email: "nooryoussef03@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+I am a PhD Candidate at Dalhousie University. My PhD work focuses on blah blah blah
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Youssef_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
