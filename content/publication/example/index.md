@@ -11,7 +11,7 @@ date: "2020"
 doi: "https://doi.org/10.1093/molbev/msaa151"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-11
+publishDate: "2020-11-11"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
