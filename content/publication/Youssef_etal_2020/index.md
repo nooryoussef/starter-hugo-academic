@@ -6,6 +6,8 @@ title: "Consequences of Stability-Induced Epistasis for Substitution Rates"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Edward Susko
+- Joseph Bielawski
 
 date: "2020"
 doi: "https://doi.org/10.1093/molbev/msaa151"
@@ -28,7 +30,7 @@ abstract: "Do interactions between residues in a protein (i.e., epistasis) signi
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 
 url_pdf: ''

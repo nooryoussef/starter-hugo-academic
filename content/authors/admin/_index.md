@@ -66,4 +66,4 @@ highlight_name: true
 
 I am a PhD Candidate at Dalhousie University. My PhD work focuses on blah blah blah
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Youssef_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Youssef_CV.pdf" "newtab" >}}C.V.{{< /staticref >}}
