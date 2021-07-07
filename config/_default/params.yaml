@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: earth
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -22,7 +22,7 @@ twitter: ''
 
 email: nooryoussef03@gmail.com
 address:
-  street: 6299 South Street
+  street: Life Sciences Building, Dalhouise University, 6299 South Street
   city: Halifax
   region: NS
   country: Canada
@@ -43,6 +43,7 @@ main_menu:
   show_day_night: true
   show_search: true
   highlight_active_link: true
+  font_size: XL
 
 # Localization
 
