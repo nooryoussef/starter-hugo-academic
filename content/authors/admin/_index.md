@@ -66,6 +66,8 @@ highlight_name: true
 
 I am generally interested in proteins, their structures, and their evolution. I am also interested in biases in evolutionary inference due to model misspecification (e.g., neglecting to account for epistatic interactions between sites). My research has concentrated around computational modelling of protein evolution, with a focus on thermodynamic stability.
 
-I am currently completing my PhD at Dalhousie University under the supervision of *[Dr. Joseph Bielawski](https://www.dal.ca/faculty/science/biology/faculty-staff/our-faculty/joe-bielawski.html)* (Department of Biology and Department of Mathematics and Statistics) and *[Dr. Edward Susko](https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/statistics/ed_susko.html)* (Department of Mathematics and Statistics). I will be defending my thesis in August 2021. I am starting a post-doctoral position with *[Dr. Debora Marks](https://www.deboramarkslab.com)* (Harvard Medical School) in September 2021. 
+I am currently completing my PhD at Dalhousie University under the supervision of *[Dr. Joseph Bielawski](https://www.dal.ca/faculty/science/biology/faculty-staff/our-faculty/joe-bielawski.html)* (Department of Biology and Department of Mathematics and Statistics) and *[Dr. Edward Susko](https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/statistics/ed_susko.html)* (Department of Mathematics and Statistics). I will be defending my thesis in August 2021. 
+
+I am starting a post-doctoral position with *[Dr. Debora Marks](https://www.deboramarkslab.com)* (Harvard Medical School) in September 2021. During my post-doctoral research, I will apply my theoretical background to various interesting problems related to viruses and directed evolution.   
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Youssef_CV.pdf" "newtab" >}}C.V.{{< /staticref >}}
